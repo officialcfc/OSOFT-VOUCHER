@@ -1,0 +1,127 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    color: #000;
+    font-size: 10px;
+  }
+  
+  .voucher-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h2 {
+    text-transform: uppercase;
+    color: #333;
+    font-size: 10px;
+  }
+  
+  .header h1 {
+    font-size: 13px;
+  }
+  
+  .header h3 {
+    
+    margin-top: 5px;
+    color: #000;
+    text-decoration: none;
+  }
+  
+.f1 {
+  text-align: right;
+}
+
+  .sub-header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .bold {
+    font-weight: bold;
+    color: #d00;
+  }
+  
+  .main-details table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  main-details th, td {
+    padding: 3px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  /* .classification {
+    font-size: 14px;
+  } */
+  
+  .classification p {
+    margin: 5px 0;
+  }
+  
+  .classification span {
+    font-weight: bold;
+  }
+  
+  .footer {
+    text-align: center;
+    
+    margin-top: 20px;
+  }
+  
+  .footer p {
+    font-weight: bold;
+  }
+  
+  .table {
+    font-size: 10px;
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.payee p {
+  font-size: 10px;
+}
+
+  .payee span {
+    text-decoration: underline;
+    padding-left: 3px;
+  }
+
+  td p {
+    color: red;
+  }
+  
+  .payable h3, .payable p {
+    text-align: center;
+  }
+  .row-2 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .payable h6 {
+    text-align: right;
+  }
+
+  .payable span {
+    color: red;
+  }
